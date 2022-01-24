@@ -33,7 +33,6 @@
   "bundleDependencies": false,
   "dependencies": {
     "jayson": "^2.0.6",
-    "npm": "^6.4.1"
   },
   "deprecated": false,
   "description": "Node.js client library for Odoo using JSON-RPC",
